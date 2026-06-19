@@ -1,103 +1,44 @@
-<div align="center">
+# Nishant Jarare
 
-# Hi, I'm Nishant Jarare 👋
+A .NET Core Full Stack Developer building scalable APIs and enterprise 
+web applications using ASP.NET Core, React, and SQL Server.
 
-### .NET Core Full Stack Developer · Pune, India
 
-[
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
 
-](https://linkedin.com/in/your-profile)
-[
 
-![GitHub followers](https://img.shields.io/github/followers/NishantDJ?style=flat&logo=github)
 
-](https://github.com/NishantDJ)
 
-</div>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver)
+
+
+
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)
+
+
 
 ---
 
-## About me
+## About
 
-Full Stack Developer with hands-on experience building scalable APIs and 
-enterprise web applications using ASP.NET Core, React, and SQL Server.
-
-- 🔭 Currently building: **Payment Gateway Integration** (Razorpay + Stripe + HDFC/JWE)
-- 💡 Specialized in: secure API design, payment systems, and Clean Architecture
-- 🌱 Exploring: Docker, Azure, and Microservices
-- 📍 Open to: mid/senior .NET roles in Pune (remote/hybrid preferred)
+- 🔭 Currently building: **payment-gateway-integration** (Razorpay + Stripe + HDFC/JWE)
+- 💡 Specialized in: secure API design, payment systems, Clean Architecture
+- 🌱 Exploring: Docker, Azure, Microservices
+- 📍 Pune, India · Open to mid/senior .NET roles (remote/hybrid)
 
 ---
 
 ## Tech stack
 
-**Backend**
-
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet)
-
-
-
-
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
-
-
-
-
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet)
-
-
-
-
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
-
-
-
-
-![ADO.NET](https://img.shields.io/badge/ADO.NET-CC2927)
-
-
-
-**Frontend**
-
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-
-
-
-**Database & tools**
-
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
-
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-
-
-
-
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)
-
-
+| Layer | Technologies |
+|-------|-------------|
+| Backend | ASP.NET Core 8 · C# · Web API · EF Core · ADO.NET |
+| Frontend | React · JavaScript · HTML5 · CSS3 |
+| Database | SQL Server · Stored Procedures · LINQ |
+| Security | JWT · JWE Encryption · Role-Based Auth |
+| Tools | Docker · Git · Swagger · Serilog · GitHub Actions |
 
 ---
 
@@ -112,17 +53,15 @@ enterprise web applications using ASP.NET Core, React, and SQL Server.
 
 ## GitHub stats
 
-<div align="center">
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDJ&show_icons=true&hide_border=true&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDJ&show_icons=true&hide_border=true)
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantDJ&layout=compact&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantDJ&layout=compact&hide_border=true)
 
 
 
@@ -132,10 +71,6 @@ enterprise web applications using ASP.NET Core, React, and SQL Server.
 
 
 
-</div>
-
 ---
 
-<div align="center">
-<i>Open to .NET Core / Full Stack roles — let's connect</i>
-</div>
+Built by [Nishant Jarare](https://github.com/NishantDJ) · Pune, India
