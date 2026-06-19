@@ -1,146 +1,97 @@
-# Nishant
 
-Full Stack Developer focused on scalable web applications, backend systems, cloud infrastructure, and software architecture.
+Nishant Jarare
 
----
-
-## About
-
-I build modern full stack applications with a strong focus on performance, clean architecture, and scalable backend systems.
+.NET Full Stack Developer specializing in ASP.NET Core,
+Web APIs, React, SQL Server, and enterprise application development.
 
 ---
 
-## Technical Skills
+About Me
 
-### Frontend
+I build scalable web applications and backend services using Microsoft technologies.
+My focus areas include API development, database design, application security, 
+and clean architecture principles.
+
+---
+
+Tech Stack
+
+Backend
+
+- C#
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Entity Framework Core
+- ADO.NET
+- LINQ
+
+Frontend
+
+- React
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
+- Bootstrap
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
+Database
 
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
+- SQL Server
+- Stored Procedures
+- Query Optimization
 
-### DevOps & Cloud
-- Docker
-- GitHub Actions
-- AWS
-- Vercel
+Authentication & Security
 
-### Tools
+- JWT Authentication
+- Role-Based Authorization
+- Middleware
+- Secure API Development
+
+Tools & Platforms
+
 - Git
 - GitHub
-- Linux
-- VS Code
+- Visual Studio
 - Postman
+- Swagger
+- Azure DevOps
 
 ---
 
-## Engineering & Architecture
+Currently Learning
 
-- System Design
-- API Architecture
-- Authentication & Authorization
-- CI/CD Pipelines
-- Database Optimization
-- Cloud Deployment
-- Performance Optimization
-- Scalable Backend Systems
+- Clean Architecture
+- Docker
+- CI/CD
+- Redis
+- Microservices
+- Azure Cloud Services
 
 ---
 
-## Experience
+Featured Projects
 
-### Full Stack Development
+ProjectShashtra Enterprise Suite
 
-- Built responsive and scalable web applications
-- Developed secure REST APIs
-- Improved backend performance and maintainability
-- Automated deployment workflows
-- Worked with cloud hosting environments
+ASP.NET Core Web API for product management using SQL Server, ADO.NET, and stored procedures.
 
----
+Payment Gateway Integration
 
-## Featured Projects
+Enterprise payment processing system with secure API design and multi-provider integration.
 
-### Project Name
+Employee Management API
 
-Short description of your project.
-
-**Stack:** React, Node.js, MongoDB
-
-Repository:  
-https://github.com/NishantDJ/project-name
-
-Live Demo:  
-https://your-demo-link.com
+RESTful API with authentication, authorization, and database management features.
 
 ---
 
-### Project Name
+GitHub Stats
 
-Short description of your project.
-
-**Stack:** Next.js, PostgreSQL, Docker
-
-Repository:  
-https://github.com/NishantDJ/project-name
-
-Live Demo:  
-https://your-demo-link.com
+(Add GitHub Stats Cards Here)
 
 ---
 
-## GitHub Statistics
+Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDJ&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantDJ&layout=compact&theme=default)
-
----
-
-## Certifications
-
-- AWS Cloud Practitioner
-- Full Stack Web Development
-- Docker Fundamentals
-- System Design Fundamentals
-
----
-
-## Portfolio & Profiles
-
-Portfolio  
-https://yourportfolio.com
-
-LinkedIn  
-https://linkedin.com/in/yourprofile
-
-GitHub  
-https://github.com/NishantDJ
-
----
-
-## Contact
-
-Email  
-your.email@example.com
-
----
-
-## Current Focus
-
-- Backend Scalability
-- Cloud-native Applications
-- System Architecture
-- Performance Engineering
+GitHub: https://github.com/NishantDJ
+LinkedIn: Add Your LinkedIn Profile
