@@ -1,97 +1,141 @@
+<div align="center">
 
-Nishant Jarare
+# Hi, I'm Nishant Jarare 👋
 
-.NET Full Stack Developer specializing in ASP.NET Core,
-Web APIs, React, SQL Server, and enterprise application development.
+### .NET Core Full Stack Developer · Pune, India
 
----
+[
 
-About Me
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)
 
-I build scalable web applications and backend services using Microsoft technologies.
-My focus areas include API development, database design, application security, 
-and clean architecture principles.
+](https://linkedin.com/in/your-profile)
+[
 
----
+![GitHub followers](https://img.shields.io/github/followers/NishantDJ?style=flat&logo=github)
 
-Tech Stack
+](https://github.com/NishantDJ)
 
-Backend
-
-- C#
-- ASP.NET Core
-- ASP.NET MVC
-- Web API
-- Entity Framework Core
-- ADO.NET
-- LINQ
-
-Frontend
-
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-
-Database
-
-- SQL Server
-- Stored Procedures
-- Query Optimization
-
-Authentication & Security
-
-- JWT Authentication
-- Role-Based Authorization
-- Middleware
-- Secure API Development
-
-Tools & Platforms
-
-- Git
-- GitHub
-- Visual Studio
-- Postman
-- Swagger
-- Azure DevOps
+</div>
 
 ---
 
-Currently Learning
+## About me
 
-- Clean Architecture
-- Docker
-- CI/CD
-- Redis
-- Microservices
-- Azure Cloud Services
+Full Stack Developer with hands-on experience building scalable APIs and 
+enterprise web applications using ASP.NET Core, React, and SQL Server.
 
----
-
-Featured Projects
-
-ProjectShashtra Enterprise Suite
-
-ASP.NET Core Web API for product management using SQL Server, ADO.NET, and stored procedures.
-
-Payment Gateway Integration
-
-Enterprise payment processing system with secure API design and multi-provider integration.
-
-Employee Management API
-
-RESTful API with authentication, authorization, and database management features.
+- 🔭 Currently building: **Payment Gateway Integration** (Razorpay + Stripe + HDFC/JWE)
+- 💡 Specialized in: secure API design, payment systems, and Clean Architecture
+- 🌱 Exploring: Docker, Azure, and Microservices
+- 📍 Open to: mid/senior .NET roles in Pune (remote/hybrid preferred)
 
 ---
 
-GitHub Stats
+## Tech stack
 
-(Add GitHub Stats Cards Here)
+**Backend**
+
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet)
+
+
+
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
+
+
+
+
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet)
+
+
+
+
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
+
+
+
+
+![ADO.NET](https://img.shields.io/badge/ADO.NET-CC2927)
+
+
+
+**Frontend**
+
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+
+
+
+**Database & tools**
+
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
+
+
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+
+
+
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)
+
+
 
 ---
 
-Connect
+## Projects
 
-GitHub: https://github.com/NishantDJ
-LinkedIn: Add Your LinkedIn Profile
+| Project | Stack | Status |
+|---------|-------|--------|
+| [payment-gateway-integration](https://github.com/NishantDJ/payment-gateway-integration) | ASP.NET Core 8 · Clean Architecture · JWE · Razorpay · Stripe | 🚧 In progress |
+| [ProjectShashtra](https://github.com/NishantDJ/ProjectShashtra) | ASP.NET Core · ADO.NET · Stored Procedures · SQL Server | ✅ Complete |
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDJ&show_icons=true&hide_border=true&theme=default)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantDJ&layout=compact&hide_border=true&theme=default)
+
+
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NishantDJ&hide_border=true)
+
+
+
+</div>
+
+---
+
+<div align="center">
+<i>Open to .NET Core / Full Stack roles — let's connect</i>
+</div>
